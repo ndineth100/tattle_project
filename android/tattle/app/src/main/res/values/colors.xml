@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="username0">#e21400</color>
+    <color name="username1">#91580f</color>
+    <color name="username2">#f8a700</color>
+    <color name="username3">#f78b00</color>
+    <color name="username4">#58dc00</color>
+    <color name="username5">#287b00</color>
+    <color name="username6">#a8f07a</color>
+    <color name="username7">#4ae8c4</color>
+    <color name="username8">#3b88eb</color>
+    <color name="username9">#3824aa</color>
+    <color name="username10">#a700ff</color>
+    <color name="username11">#d300e7</color>
+
+
+    <color name="colorPrimary">#2CBD82</color>
+    <color name="colorPrimaryDark">#2CBD82</color>
+    <color name="colorAccent">#BDBDBD</color>
+    <color name="navi_item_color_code">#7A7A7A</color>
+    <color name="textColorPrimary">#BDBDBD</color>
+    <color name="textColorSecondary">#9FA8DA</color>
+    <color name="colorPrimaryLight">#C8E6C9</color>
+    <color name="colorRadioSelected">#F0E0A1</color>
+    <color name="colorDivider">#dd6910</color>
+    <color name="colorIcon">#FFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="met_textColor">#388E3C</color>
+    <color name="met_baseColor">#388E3C</color>
+    <color name="met_primaryColor">#FF9800</color>
+    <color name="met_errorColor">#F44336</color>
+    <color name="rounded_corner">#ffdbce</color>
+    <color name="rounded_corner1">#e2c8fd</color>
+    <color name="colorLightBlack">#070707</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorDescGray">#5D5D5D</color>
+    <color name="colorLightGreen">#aaf8dc</color>
+    <color name="colorAccentSecondary">#F5F5F5</color>
+    <color name="colorLightGray">#BDBDBD</color>
+</resources>
